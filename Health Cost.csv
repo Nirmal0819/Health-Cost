@@ -1,0 +1,71 @@
+Patient_ID,Age,Gender,Condition,Total_Cost,Hospitalization_Cost,Medication_Cost,Procedure_Cost,Outpatient_Cost,Insurance_Type,Region,Readmission
+1,45,Female,Diabetes,8000,3000,1500,2000,2500,Private,North,0
+2,60,Male,Hypertension,6000,2000,1000,1500,1500,Medicare,South,1
+3,35,Female,Obesity,12000,5000,2500,3000,2500,Medicaid,West,0
+4,50,Male,Heart Disease,15000,6000,2000,4000,3000,Private,East,0
+5,28,Female,Asthma,4000,1000,1000,1500,500,Medicare,North,1
+6,65,Male,Diabetes,9000,3500,1500,2000,2000,Medicaid,South,0
+7,55,Female,Hypertension,7000,2500,1000,1500,2000,Private,West,0
+8,40,Male,Obesity,11000,4500,2000,2500,2000,Medicare,East,1
+9,32,Female,Heart Disease,14000,5500,2500,3500,2500,Medicaid,North,0
+10,48,Male,Asthma,5000,1500,1000,1500,1000,Private,South,0
+11,70,Female,Diabetes,10000,4000,1500,2500,2000,Medicare,West,1
+12,42,Male,Hypertension,7500,3000,1000,1500,2000,Medicaid,East,0
+13,58,Female,Obesity,13000,5000,2500,3000,2500,Private,North,0
+14,52,Male,Heart Disease,16000,7000,2000,4000,3000,Medicare,South,0
+15,30,Female,Asthma,4500,1200,1000,1500,800,Private,West,1
+16,68,Male,Diabetes,9500,3800,1500,2000,2200,Medicaid,East,0
+17,50,Female,Hypertension,7200,2800,1000,1300,2100,Private,North,0
+18,38,Male,Obesity,11500,4800,2000,2500,2200,Medicare,South,1
+19,25,Female,Heart Disease,14500,6000,2500,3500,2500,Private,West,0
+20,45,Male,Asthma,4800,1300,1000,1500,1000,Medicaid,East,0
+21,62,Female,Diabetes,9800,4000,1500,2300,2000,Medicare,North,1
+22,44,Male,Hypertension,7800,3200,1000,1300,2300,Private,South,0
+23,60,Female,Obesity,12500,5500,2500,2800,2200,Medicaid,West,0
+24,48,Male,Heart Disease,15500,6500,2000,4200,2800,Private,East,1
+25,35,Female,Asthma,4200,1100,1000,1300,800,Medicare,North,0
+26,68,Male,Diabetes,9200,3700,1500,2000,2000,Medicaid,South,0
+27,53,Female,Hypertension,7300,2800,1000,1300,2200,Private,West,1
+28,39,Male,Obesity,11200,4600,2000,2400,2200,Medicare,East,0
+29,28,Female,Heart Disease,14000,5800,2500,3200,2500,Private,North,0
+30,50,Male,Asthma,5200,1400,1000,1500,1300,Medicaid,South,1
+31,55,Female,Diabetes,8700,3200,1500,2000,2000,Private,North,0
+32,34,Male,Hypertension,5900,2200,1000,1400,1300,Medicare,South,1
+33,39,Female,Obesity,11500,4800,2000,2500,2200,Medicaid,West,0
+34,49,Male,Heart Disease,15500,6500,2000,4200,2800,Private,East,1
+35,32,Female,Asthma,4200,1100,1000,1300,800,Medicare,North,0
+36,65,Male,Diabetes,9100,3600,1500,2000,2000,Medicaid,South,0
+37,51,Female,Hypertension,7200,2700,1000,1200,2300,Private,West,0
+38,43,Male,Obesity,11200,4600,2000,2400,2200,Medicare,East,1
+39,29,Female,Heart Disease,14500,6000,2500,3500,2500,Private,West,0
+40,47,Male,Asthma,5200,1400,1000,1500,1300,Medicaid,East,0
+41,61,Female,Diabetes,9900,4000,1500,2300,2000,Medicare,North,1
+42,45,Male,Hypertension,7800,3100,1000,1300,2400,Private,South,0
+43,59,Female,Obesity,12700,5500,2500,2800,2200,Medicaid,West,0
+44,53,Male,Heart Disease,16200,7000,2000,4000,3200,Private,East,1
+45,31,Female,Asthma,4400,1200,1000,1300,900,Private,North,0
+46,67,Male,Diabetes,9400,3800,1500,2000,2100,Medicaid,South,0
+47,49,Female,Hypertension,7100,2600,1000,1200,2200,Private,West,0
+48,37,Male,Obesity,11800,4900,2000,2500,2400,Medicare,South,1
+49,26,Female,Heart Disease,14300,5800,2500,3300,2200,Private,West,0
+50,43,Male,Asthma,4900,1300,1000,1500,1100,Medicaid,East,0
+51,64,Female,Diabetes,9600,3900,1500,2100,2100,Medicare,North,1
+52,46,Male,Hypertension,8000,3000,1000,1300,2200,Private,South,0
+53,61,Female,Obesity,12800,5600,2500,2900,2200,Medicaid,West,0
+54,54,Male,Heart Disease,16000,6800,2000,4200,3000,Private,East,1
+55,33,Female,Asthma,4600,1300,1000,1400,900,Medicare,North,0
+56,69,Male,Diabetes,9300,3700,1500,2100,2000,Medicaid,South,0
+57,52,Female,Hypertension,7400,2800,1000,1300,2300,Private,West,1
+58,38,Male,Obesity,11400,4700,2000,2400,2300,Medicare,East,0
+59,27,Female,Heart Disease,14200,5900,2500,3200,2200,Private,North,0
+60,48,Male,Asthma,5100,1400,1000,1500,1200,Medicaid,South,1
+61,56,Female,Diabetes,8500,3100,1500,2000,1800,Medicare,West,0
+62,35,Male,Hypertension,6000,2300,1000,1400,1300,Private,East,1
+63,40,Female,Obesity,11600,4800,2000,2500,2300,Medicaid,North,0
+64,50,Male,Heart Disease,15000,6200,2000,4000,2800,Private,South,1
+65,29,Female,Asthma,4100,1100,1000,1300,700,Medicare,West,0
+66,66,Male,Diabetes,9200,3700,1500,2000,2000,Medicaid,East,0
+67,53,Female,Hypertension,7200,2700,1000,1200,2300,Private,North,0
+68,39,Male,Obesity,11300,4600,2000,2400,2300,Medicare,South,1
+69,30,Female,Heart Disease,14400,5900,2500,3300,2200,Private,West,0
+70,46,Male,Asthma,5000,1300,1000,1500,1200,Medicaid,East,0
